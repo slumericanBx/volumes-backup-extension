@@ -6,7 +6,7 @@
     "@docker/docker-mui-theme": "^0.0.8",
     "@docker/extension-api-client": "^0.2.3",
     "@emotion/react": "^11.9.0",
-    "@emotion/styled": "^11.8.1",
+    "@emotion/styled": "^11.10.6",
     "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.6.1",
     "@mui/x-data-grid-pro": "^5.10.0",
